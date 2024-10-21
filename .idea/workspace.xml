@@ -1,30 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="77899114-744c-45ac-a44d-35882bd106e4" name="Changes" comment="" />
+    <list default="true" id="77899114-744c-45ac-a44d-35882bd106e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/allure_result/00617292-6663-49e0-bb4e-da30c862420b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/0575fb91-0d4c-4aa1-a8ad-24f732d11f25-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/1439193c-e146-4bc6-ab57-f75860e5da86-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/1b84a925-0bc5-4646-9f0f-7381dbc4dd85-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/2266a39e-ae58-49c1-b0c8-2a5f1a123479-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/2aa28689-a9fe-4764-a927-cf2395563fcb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/2ee3a2dc-11c7-4907-8435-12d8a752a569-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/384119a0-cc6c-4281-a339-67e4b20adbb8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/3d6eec59-90f7-4513-a34c-7a4fcaaf2c80-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/7382bb24-7bdd-4ce9-aa56-264a00720d70-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/75601abc-3165-4716-bd62-e0536424d53b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/7a340d8f-a2f4-4bb1-9775-998d10624539-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/8f820a5b-f670-4789-9dd6-700f81e82f45-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/9c0bfeb2-af8d-4d36-8c2a-cea50d3364ac-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/9c749e3e-8278-4268-b747-6ae3e29b7dbe-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/a5d2852f-a98b-4f27-83e7-36a5448cb3a6-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/b7b6067f-4366-4e84-99ee-25fa9f9359d7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/bc7cb56b-3965-4898-8793-40f718e7c1ae-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/c11d45a5-c19b-45d1-aa68-e5504408d5c7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/c70d4406-7349-493f-b090-e0badc37324b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/d43b7ee4-9e69-4846-a60f-d78ce6ac94d1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/e2bffaa7-1204-4763-97e1-d72da61c226a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/efb7724b-7cb1-40ba-898a-ff0b3a50b2c2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/fe65759b-0b9b-4e9c-a1f8-8a57c3e892f3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_Lab05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_Lab06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_Lab07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_Lab08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_Lab09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_Lab10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_Lab11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_16102024/task_Lab03.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17102024/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_16102024/test_Lab01.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_16102024/test_Lab01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_16102024/test_Lab02.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_16102024/test_Lab02.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SrivalliChaturvedula&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SrivalliChaturvedula/LearningSeleniumPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;1f82a735-6258-46ae-b4d9-1c0ea285052b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2nVey8tGEpqBWTb9xO6vGW2po8j" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for task_Lab03.test_open_katalon.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab01.test_sample.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab02.test_open_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab05.test_Chrome_options.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab05.test_open_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab06.test_chrome_current_url_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab07.test_chrome_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab08.test_negative_vwo_login_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab08.test_text_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab09.test_link.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab10.test_link_using_partial_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab11.test_button_using_tag_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_task_Lab04.test_change_url.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab11.test_button_using_tag_name">
+    <configuration name="Python tests for test_Lab08.test_negative_vwo_login_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab08.test_negative_vwo_login_verification&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab08.test_text_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab08.test_text_message&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab09.test_link" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab09.test_link&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab10.test_link_using_partial_text" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab10.test_link_using_partial_text&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab11.test_button_using_tag_name" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab11.test_button_using_tag_name&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_Lab11.test_button_using_tag_name" />
+        <item itemvalue="Python tests.Python tests for test_Lab10.test_link_using_partial_text" />
+        <item itemvalue="Python tests.Python tests for test_Lab09.test_link" />
+        <item itemvalue="Python tests.Python tests for test_Lab08.test_negative_vwo_login_verification" />
+        <item itemvalue="Python tests.Python tests for test_Lab08.test_text_message" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -41,6 +204,36 @@
       <option name="presentableId" value="Default" />
       <updated>1729062922112</updated>
     </task>
+    <task id="LOCAL-00001" summary="All the files added">
+      <option name="closed" value="true" />
+      <created>1729088797497</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729088797497</updated>
+    </task>
+    <task id="LOCAL-00002" summary="All the files added">
+      <option name="closed" value="true" />
+      <created>1729089163587</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729089163587</updated>
+    </task>
+    <task id="LOCAL-00003" summary="All the files added">
+      <option name="closed" value="true" />
+      <created>1729149267205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729149267205</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="All the files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the files added" />
   </component>
 </project>
