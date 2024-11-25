@@ -1,6 +1,9 @@
+
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
+from src.ex_19102024.random_email_generator import generate_random_email
 
 
 def test_register_account_page():
@@ -24,7 +27,7 @@ def test_register_account_page():
     last_name = driver.find_element(By.XPATH, "//input[@id='input-lastname']")
     last_name.send_keys("Chaturvedula")
     e_mail = driver.find_element(By.XPATH, "//input[@placeholder='E-Mail']")
-    e_mail.send_keys("chaturvedula_test123@gmail.com")
+    e_mail.send_keys(generate_random_email(domain="example.com"))
     tele_phone = driver.find_element(By.XPATH, "//input[@placeholder='Telephone']")
     tele_phone.send_keys("1234567890")
 
@@ -51,3 +54,4 @@ def test_register_account_page():
     assert success_message.__eq__("Your Account Has Been Created!")
 
     time.sleep(5)
+

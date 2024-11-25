@@ -5,43 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77899114-744c-45ac-a44d-35882bd106e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/allure_result/00617292-6663-49e0-bb4e-da30c862420b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/0575fb91-0d4c-4aa1-a8ad-24f732d11f25-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/1439193c-e146-4bc6-ab57-f75860e5da86-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/1b84a925-0bc5-4646-9f0f-7381dbc4dd85-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/2266a39e-ae58-49c1-b0c8-2a5f1a123479-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/2aa28689-a9fe-4764-a927-cf2395563fcb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/2ee3a2dc-11c7-4907-8435-12d8a752a569-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/384119a0-cc6c-4281-a339-67e4b20adbb8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/3d6eec59-90f7-4513-a34c-7a4fcaaf2c80-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/7382bb24-7bdd-4ce9-aa56-264a00720d70-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/75601abc-3165-4716-bd62-e0536424d53b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/7a340d8f-a2f4-4bb1-9775-998d10624539-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/8f820a5b-f670-4789-9dd6-700f81e82f45-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/9c0bfeb2-af8d-4d36-8c2a-cea50d3364ac-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/9c749e3e-8278-4268-b747-6ae3e29b7dbe-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/a5d2852f-a98b-4f27-83e7-36a5448cb3a6-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/b7b6067f-4366-4e84-99ee-25fa9f9359d7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/bc7cb56b-3965-4898-8793-40f718e7c1ae-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/c11d45a5-c19b-45d1-aa68-e5504408d5c7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/c70d4406-7349-493f-b090-e0badc37324b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/d43b7ee4-9e69-4846-a60f-d78ce6ac94d1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/e2bffaa7-1204-4763-97e1-d72da61c226a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/efb7724b-7cb1-40ba-898a-ff0b3a50b2c2-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/fe65759b-0b9b-4e9c-a1f8-8a57c3e892f3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_Lab05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_Lab06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_Lab07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_Lab08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_Lab09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_Lab10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_Lab11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/2341241a-cb64-4798-95ac-c69a44f41e79-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/3601af92-06b8-4bb1-ae42-eb7413863a2b-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/6f20f730-e0d1-4bd9-a21f-5b4f21833671-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/a40acd2a-0d42-41be-bb8d-9107c79a054a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/a5c809c0-b530-490d-bec3-75701d9da931-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/e0d13207-4b0d-479f-b9da-9308c8a1b7ff-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19102024/random_email_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19102024/random_first_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_Lab16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_Lab17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_Lab18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_alerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_js_confirm_alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_staleElementexception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_svg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_svg2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_timeout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_draggable_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_keyboard_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_mouse_actions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_16102024/task_Lab03.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17102024/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_16102024/test_Lab01.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_16102024/test_Lab01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_16102024/test_Lab02.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_16102024/test_Lab02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_19102024/test_task_Lab05.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19102024/test_task_Lab05.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,110 +70,141 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for task_Lab03.test_open_katalon.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab01.test_sample.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab02.test_open_vwo_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab05.test_Chrome_options.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab05.test_open_vwo_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab06.test_chrome_current_url_verification.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab07.test_chrome_verification.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab08.test_negative_vwo_login_verification.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab08.test_text_message.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab09.test_link.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab10.test_link_using_partial_text.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab11.test_button_using_tag_name.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_task_Lab04.test_change_url.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for task_Lab03.test_open_katalon.executor": "Run",
+    "Python tests.Python tests for test_Lab01.test_sample.executor": "Run",
+    "Python tests.Python tests for test_Lab02.test_open_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_Lab05.test_Chrome_options.executor": "Run",
+    "Python tests.Python tests for test_Lab05.test_open_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_Lab06.test_chrome_current_url_verification.executor": "Run",
+    "Python tests.Python tests for test_Lab07.test_chrome_verification.executor": "Run",
+    "Python tests.Python tests for test_Lab08.test_negative_vwo_login_verification.executor": "Run",
+    "Python tests.Python tests for test_Lab08.test_text_message.executor": "Run",
+    "Python tests.Python tests for test_Lab09.test_link.executor": "Run",
+    "Python tests.Python tests for test_Lab10.test_link_using_partial_text.executor": "Run",
+    "Python tests.Python tests for test_Lab11.test_button_using_tag_name.executor": "Run",
+    "Python tests.Python tests for test_Lab12.test_url_ebay_verification.executor": "Run",
+    "Python tests.Python tests for test_Lab13.test_negative_vwo_login_verification.executor": "Run",
+    "Python tests.Python tests for test_Lab14.test_negative_vwo_login_verification.executor": "Run",
+    "Python tests.Python tests for test_Lab15.test_radio_checkbox.executor": "Run",
+    "Python tests.Python tests for test_Lab16.test_handle_alert.executor": "Run",
+    "Python tests.Python tests for test_Lab17.test_js_confirm_alerts.executor": "Run",
+    "Python tests.Python tests for test_Lab18.test_drop_down.executor": "Run",
+    "Python tests.Python tests for test_actions.test_verify_actions.executor": "Run",
+    "Python tests.Python tests for test_alerts.test_alerts.executor": "Run",
+    "Python tests.Python tests for test_draggable_actions.test_verify_actions_keyboard_events.executor": "Run",
+    "Python tests.Python tests for test_exceptions.test_svg.executor": "Run",
+    "Python tests.Python tests for test_js_confirm_alert.test_js_confirm_alerts.executor": "Run",
+    "Python tests.Python tests for test_mouse_actions.test_verify_actions_mouse_events.executor": "Run",
+    "Python tests.Python tests for test_staleElementexception.test_svg.executor": "Run",
+    "Python tests.Python tests for test_svg.test_svg.executor": "Run",
+    "Python tests.Python tests for test_svg2.test_svg2.executor": "Run",
+    "Python tests.Python tests for test_task_Lab03.test_open_katalon.executor": "Run",
+    "Python tests.Python tests for test_task_Lab04.test_change_url.executor": "Run",
+    "Python tests.Python tests for test_task_Lab05.test_register_account_page.executor": "Run",
+    "Python tests.Python tests for test_timeout.test_stale_exception.executor": "Run",
+    "Python tests.Python tests for test_web_table_dynamic.test_dynamic_web_table.executor": "Run",
+    "Python tests.Python tests for test_web_tables.test_web_tables.executor": "Run",
+    "Python tests.Python tests in test_random.py.executor": "Run",
+    "Python.random.executor": "Run",
+    "Python.random_email_generator (1).executor": "Run",
+    "Python.random_first_name.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab11.test_button_using_tag_name">
-    <configuration name="Python tests for test_Lab08.test_negative_vwo_login_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chatu\PycharmProjects\LearningSeleniumPrograms\src\ex_26102024" />
+      <recent name="C:\Users\Chatu\PycharmProjects\LearningSeleniumPrograms\src\ex_24102024" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_draggable_actions.test_verify_actions_keyboard_events">
+    <configuration name="Python tests for src.ex_26102024.test_keyboard_actions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab08.test_negative_vwo_login_verification&quot;" />
+      <option name="_new_target" value="&quot;src.ex_26102024.test_keyboard_actions&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab08.test_text_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_draggable_actions.test_verify_actions_keyboard_events" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab08.test_text_message&quot;" />
+      <option name="_new_target" value="&quot;test_draggable_actions.test_verify_actions_keyboard_events&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab09.test_link" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_mouse_actions.test_verify_actions_mouse_events" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab09.test_link&quot;" />
+      <option name="_new_target" value="&quot;test_mouse_actions.test_verify_actions_mouse_events&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab10.test_link_using_partial_text" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_timeout.test_stale_exception" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_24102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab10.test_link_using_partial_text&quot;" />
+      <option name="_new_target" value="&quot;test_timeout.test_stale_exception&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab11.test_button_using_tag_name" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_web_table_dynamic.test_dynamic_web_table" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab11.test_button_using_tag_name&quot;" />
+      <option name="_new_target" value="&quot;test_web_table_dynamic.test_dynamic_web_table&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_Lab11.test_button_using_tag_name" />
-        <item itemvalue="Python tests.Python tests for test_Lab10.test_link_using_partial_text" />
-        <item itemvalue="Python tests.Python tests for test_Lab09.test_link" />
-        <item itemvalue="Python tests.Python tests for test_Lab08.test_negative_vwo_login_verification" />
-        <item itemvalue="Python tests.Python tests for test_Lab08.test_text_message" />
+        <item itemvalue="Python tests.Python tests for test_draggable_actions.test_verify_actions_keyboard_events" />
+        <item itemvalue="Python tests.Python tests for test_mouse_actions.test_verify_actions_mouse_events" />
+        <item itemvalue="Python tests.Python tests for src.ex_26102024.test_keyboard_actions" />
+        <item itemvalue="Python tests.Python tests for test_timeout.test_stale_exception" />
+        <item itemvalue="Python tests.Python tests for test_web_table_dynamic.test_dynamic_web_table" />
       </list>
     </recent_temporary>
   </component>
@@ -228,12 +248,62 @@
       <option name="project" value="LOCAL" />
       <updated>1729149267205</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="All the files added">
+      <option name="closed" value="true" />
+      <created>1729500959286</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729500959286</updated>
+    </task>
+    <task id="LOCAL-00005" summary="task completed">
+      <option name="closed" value="true" />
+      <created>1729510668985</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729510668985</updated>
+    </task>
+    <task id="LOCAL-00006" summary="task completed">
+      <option name="closed" value="true" />
+      <created>1729701265369</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729701265369</updated>
+    </task>
+    <task id="LOCAL-00007" summary="task completed">
+      <option name="closed" value="true" />
+      <created>1729703451692</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729703451692</updated>
+    </task>
+    <task id="LOCAL-00008" summary="task completed">
+      <option name="closed" value="true" />
+      <created>1729839705558</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729839705558</updated>
+    </task>
+    <task id="LOCAL-00009" summary="webtables practice.">
+      <option name="closed" value="true" />
+      <created>1730210627775</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730210627775</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="All the files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the files added" />
+    <MESSAGE value="task completed" />
+    <MESSAGE value="webtables practice." />
+    <option name="LAST_COMMIT_MESSAGE" value="webtables practice." />
   </component>
 </project>
