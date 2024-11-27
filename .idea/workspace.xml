@@ -5,32 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77899114-744c-45ac-a44d-35882bd106e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/allure_result/2341241a-cb64-4798-95ac-c69a44f41e79-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/3601af92-06b8-4bb1-ae42-eb7413863a2b-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/6f20f730-e0d1-4bd9-a21f-5b4f21833671-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/a40acd2a-0d42-41be-bb8d-9107c79a054a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/a5c809c0-b530-490d-bec3-75701d9da931-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/e0d13207-4b0d-479f-b9da-9308c8a1b7ff-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19102024/random_email_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19102024/random_first_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_Lab16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_Lab17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_Lab18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_alerts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_js_confirm_alert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_staleElementexception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_svg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_svg2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_timeout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_26102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_draggable_actions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_keyboard_actions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_mouse_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_makeMytrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_spicejet.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_19102024/test_task_Lab05.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19102024/test_task_Lab05.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +74,9 @@
     "Python tests.Python tests for test_draggable_actions.test_verify_actions_keyboard_events.executor": "Run",
     "Python tests.Python tests for test_exceptions.test_svg.executor": "Run",
     "Python tests.Python tests for test_js_confirm_alert.test_js_confirm_alerts.executor": "Run",
+    "Python tests.Python tests for test_makeMytrip.test_search_tab.executor": "Run",
     "Python tests.Python tests for test_mouse_actions.test_verify_actions_mouse_events.executor": "Run",
+    "Python tests.Python tests for test_spicejet.test_search_tab.executor": "Run",
     "Python tests.Python tests for test_staleElementexception.test_svg.executor": "Run",
     "Python tests.Python tests for test_svg.test_svg.executor": "Run",
     "Python tests.Python tests for test_svg2.test_svg2.executor": "Run",
@@ -122,7 +101,7 @@
       <recent name="C:\Users\Chatu\PycharmProjects\LearningSeleniumPrograms\src\ex_24102024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_draggable_actions.test_verify_actions_keyboard_events">
+  <component name="RunManager" selected="Python tests.Python tests for test_spicejet.test_search_tab">
     <configuration name="Python tests for src.ex_26102024.test_keyboard_actions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -153,6 +132,21 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_makeMytrip.test_search_tab" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_makeMytrip.test_search_tab&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_mouse_actions.test_verify_actions_mouse_events" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -168,22 +162,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_timeout.test_stale_exception" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_24102024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_timeout.test_stale_exception&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_web_table_dynamic.test_dynamic_web_table" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_spicejet.test_search_tab" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,17 +173,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_web_table_dynamic.test_dynamic_web_table&quot;" />
+      <option name="_new_target" value="&quot;test_spicejet.test_search_tab&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_spicejet.test_search_tab" />
+        <item itemvalue="Python tests.Python tests for test_makeMytrip.test_search_tab" />
         <item itemvalue="Python tests.Python tests for test_draggable_actions.test_verify_actions_keyboard_events" />
         <item itemvalue="Python tests.Python tests for test_mouse_actions.test_verify_actions_mouse_events" />
         <item itemvalue="Python tests.Python tests for src.ex_26102024.test_keyboard_actions" />
-        <item itemvalue="Python tests.Python tests for test_timeout.test_stale_exception" />
-        <item itemvalue="Python tests.Python tests for test_web_table_dynamic.test_dynamic_web_table" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730210627775</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="actions practice.">
+      <option name="closed" value="true" />
+      <created>1732521519402</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732521519402</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -304,6 +291,7 @@
     <MESSAGE value="All the files added" />
     <MESSAGE value="task completed" />
     <MESSAGE value="webtables practice." />
-    <option name="LAST_COMMIT_MESSAGE" value="webtables practice." />
+    <MESSAGE value="actions practice." />
+    <option name="LAST_COMMIT_MESSAGE" value="actions practice." />
   </component>
 </project>
