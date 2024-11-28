@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77899114-744c-45ac-a44d-35882bd106e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_makeMytrip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_spicejet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_frames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_win_frames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_windows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_windows_JS_frames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/to_field_interception.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_26102024/test_spicejet.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_26102024/test_spicejet.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +77,7 @@
     "Python tests.Python tests for test_alerts.test_alerts.executor": "Run",
     "Python tests.Python tests for test_draggable_actions.test_verify_actions_keyboard_events.executor": "Run",
     "Python tests.Python tests for test_exceptions.test_svg.executor": "Run",
+    "Python tests.Python tests for test_frames.test_windows.executor": "Run",
     "Python tests.Python tests for test_js_confirm_alert.test_js_confirm_alerts.executor": "Run",
     "Python tests.Python tests for test_makeMytrip.test_search_tab.executor": "Run",
     "Python tests.Python tests for test_mouse_actions.test_verify_actions_mouse_events.executor": "Run",
@@ -86,6 +91,9 @@
     "Python tests.Python tests for test_timeout.test_stale_exception.executor": "Run",
     "Python tests.Python tests for test_web_table_dynamic.test_dynamic_web_table.executor": "Run",
     "Python tests.Python tests for test_web_tables.test_web_tables.executor": "Run",
+    "Python tests.Python tests for test_win_frames.test_verify_action_makemytrip.executor": "Run",
+    "Python tests.Python tests for test_windows.test_windows.executor": "Run",
+    "Python tests.Python tests for test_windows_JS_frames.test_windows.executor": "Run",
     "Python tests.Python tests in test_random.py.executor": "Run",
     "Python.random.executor": "Run",
     "Python.random_email_generator (1).executor": "Run",
@@ -101,8 +109,8 @@
       <recent name="C:\Users\Chatu\PycharmProjects\LearningSeleniumPrograms\src\ex_24102024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_spicejet.test_search_tab">
-    <configuration name="Python tests for src.ex_26102024.test_keyboard_actions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_win_frames.test_verify_action_makemytrip">
+    <configuration name="Python tests for test_frames.test_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,52 +121,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_26102024.test_keyboard_actions&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_draggable_actions.test_verify_actions_keyboard_events" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_draggable_actions.test_verify_actions_keyboard_events&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_makeMytrip.test_search_tab" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_makeMytrip.test_search_tab&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_mouse_actions.test_verify_actions_mouse_events" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="LearningSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_mouse_actions.test_verify_actions_mouse_events&quot;" />
+      <option name="_new_target" value="&quot;test_frames.test_windows&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -177,13 +140,58 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_win_frames.test_verify_action_makemytrip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_win_frames.test_verify_action_makemytrip&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_windows_JS_frames.test_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_windows_JS_frames.test_windows&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_windows.test_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_26102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_windows.test_windows&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_win_frames.test_verify_action_makemytrip" />
+        <item itemvalue="Python tests.Python tests for test_windows_JS_frames.test_windows" />
+        <item itemvalue="Python tests.Python tests for test_frames.test_windows" />
+        <item itemvalue="Python tests.Python tests for test_windows.test_windows" />
         <item itemvalue="Python tests.Python tests for test_spicejet.test_search_tab" />
-        <item itemvalue="Python tests.Python tests for test_makeMytrip.test_search_tab" />
-        <item itemvalue="Python tests.Python tests for test_draggable_actions.test_verify_actions_keyboard_events" />
-        <item itemvalue="Python tests.Python tests for test_mouse_actions.test_verify_actions_mouse_events" />
-        <item itemvalue="Python tests.Python tests for src.ex_26102024.test_keyboard_actions" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732521519402</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="actions practice.">
+      <option name="closed" value="true" />
+      <created>1732693820500</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732693820500</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

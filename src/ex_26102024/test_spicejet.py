@@ -33,7 +33,7 @@ def test_search_tab():
         from_search_bar.click()
 
         actions = ActionChains(driver)
-        actions.send_keys("DEL").perform()
+        actions.send_keys("MUM").perform()
         actions.send_keys(Keys.ENTER).perform()
 
         # Wait for the "To" field to be clickable
